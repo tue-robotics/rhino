@@ -1,9 +1,12 @@
 [submodule "binding/unity/Assets/Rhino/VoiceProcessor"]
-	path = binding/unity/Assets/Rhino/VoiceProcessor
-	url = ../unity-voice-processor.git
+    path = binding/unity/Assets/Rhino/VoiceProcessor
+    url = ../../tue-robotics/unity-voice-processor.git
+    branch = master
 [submodule "demo/c/dr_libs"]
-	path = demo/c/dr_libs
-	url = ../../mackron/dr_libs.git
+    path = demo/c/dr_libs
+    url = ../../tue-robotics/dr_libs.git
+    branch = master
 [submodule "demo/c/pvrecorder"]
-	path = demo/c/pvrecorder
-	url = ../pvrecorder.git
+    path = demo/c/pvrecorder
+    url = ../../tue-robotics/pvrecorder.git
+    branch = master
